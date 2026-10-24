@@ -20,8 +20,8 @@ I am interested in mechanical design, CAD modelling, thermal engineering, and au
 
 ## Projects
 
-### 1. ADAS Full-Car Minor Project
-Developed a full-car project featuring an Advanced Driver Assistance System (ADAS) using a battery-powered setup.
+### 1. ADAS Car Minor Project
+Developed a car project featuring an Advanced Driver Assistance System (ADAS) using a battery-powered setup.
 
 ### 2. DD Robocon 2025 – IIT Delhi
 Gained practical experience in robotic fabrication, machining, assembly, and mechanical-electrical system integration.
