@@ -45,7 +45,7 @@ Birla Vishvakarma Mahavidyalaya (BVM), Anand
 
 My portfolio website will be available at:
 
-`https://YOUR-USERNAME.github.io`
+`https://mohitparmar.github.io`
 
 ## Contact
 
