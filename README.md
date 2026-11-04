@@ -15,7 +15,7 @@ I am pursuing a B.Tech in Mechanical Engineering at BVM College. My areas of int
 
 
 
-- **CAD & Design**
+**CAD & Design**
 - AutoCAD
 - Fusion 360
 - Onshape
